@@ -1,5 +1,3 @@
-# Python-project-1
-
 # 🔐 File Integrity Checker
 
 A simple desktop-based **File Integrity Checker** built with **Python and Tkinter**.
